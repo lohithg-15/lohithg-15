@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am currently learning Java
 
 
 # 💻 Tech Stack:
