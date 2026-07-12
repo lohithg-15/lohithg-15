@@ -1,9 +1,11 @@
 # 💫 About Me:
-currently working on full stack web development
+Web developer | Open Source | AI Agents
+B.E in CSE 
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lohith-g-551790280) 
+[![Portfolio](https://lohithg-15.github.io/my-portfolio/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lohithg-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
